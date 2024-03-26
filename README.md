@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Serge 👋
 
-<!--
-**sergeyzoloto/sergeyzoloto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently seeking new opportunities as a junior web developer.
 
-Here are some ideas to get you started:
+Finished [*HackYourFuture*](https://www.hackyourfuture.net/) coding bootcamp
+and now working on [*organizer*](https://github.com/sergeyzoloto/organizer).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm open to acquaintances and partnerships. Let's collaborate
+
+## Skills and Experience
+
+- HTML, CSS, JavaScript
+- MongoDB, Express, React, Node
+- SQL (Transact / T-SQL / Microsoft SQL Server, Teradata)
+- budget planning, financial modeling, adhoc reporting
+- telecom, banking
