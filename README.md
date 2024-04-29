@@ -6,6 +6,7 @@ Finished [*HackYourFuture*](https://www.hackyourfuture.net/) coding bootcamp
 and now working on [*organizer*](https://github.com/organizer-team/organizer).
 
 I'm open to acquaintances and partnerships. Let's collaborate
+<sergiozoloto@gmail.com>
 
 ## Skills and Experience
 
@@ -14,3 +15,4 @@ I'm open to acquaintances and partnerships. Let's collaborate
 - SQL (Transact / T-SQL / Microsoft SQL Server, Teradata)
 - budget planning, financial modeling, adhoc reporting
 - telecom, banking
+
