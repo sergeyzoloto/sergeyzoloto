@@ -12,6 +12,7 @@ I'm open to acquaintances and partnerships. Let's collaborate
 
 - HTML, CSS, JavaScript
 - MongoDB, Express, React, Node
+- Java, Spring
 - SQL (Transact / T-SQL / Microsoft SQL Server, Teradata)
 - budget planning, financial modeling, adhoc reporting
 - telecom, banking
