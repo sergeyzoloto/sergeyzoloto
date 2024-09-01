@@ -3,7 +3,7 @@
 I am currently seeking new opportunities as a junior web developer.
 
 Finished [*HackYourFuture*](https://www.hackyourfuture.net/) coding bootcamp
-and now working on [*organizer*](https://github.com/organizer-team/organizer). Diving into Java and Spring Boot.
+and now working on [*finance-tracker*](https://github.com/sergeyzoloto/finance-tracker). Diving into Java and Spring Boot.
 
 I'm open to acquaintances and partnerships. Let's collaborate
 <sergiozoloto@gmail.com>
